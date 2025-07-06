@@ -16,7 +16,7 @@ This repository contains the code for a Symptom Checker Chat Bot built using Str
 #### How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yousufmunna143/symptom-checker-chat-bot.git
+   git clone https://github.com/Muthu-Kumaran-T/Symptom-checker.git
    cd symptom-checker-chat-bot
    ```
 2. Install the required packages:
